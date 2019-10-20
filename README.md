@@ -20,6 +20,7 @@ Useful Learning Resources
 ### Algorithms
 - [Leetcode](https://leetcode.com/problemset/algorithms/)
 - [Data Structures and Algorithms in python](https://doc.lagout.org/programmation/python/Data%20Structures%20and%20Algorithms%20in%20Python%20[Goodrich,%20Tamassia%20&%20Goldwasser%202013-03-18].pdf)
+- [All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)
 
 ### SQL
 - [Java and SQL](https://blog.jooq.org/sql/) (better in SQL)
@@ -61,7 +62,7 @@ Useful Learning Resources
 - [Computer Vision Visualisation](http://vision-explorer.reactive.ai/#/galaxy?_k=bw79mx)
 - [Fullstack Deep Learning - March 2019](https://fullstackdeeplearning.com/march2019)
 - [Course materials for General Assembly's Data Science course in Washington, DC ](https://github.com/justmarkham/DAT3)  
-  
+- [Hands on ML Ipython files](https://github.com/ageron/handson-ml2)
   
 - [wikidocs NLP](https://www.pdfdrive.com) (NLP Explanation in Korean)
 - [Fast Campus Pytorch course materials](https://github.com/junkwhinger/Pytorch_Fast_Campus_2018) (korean)
